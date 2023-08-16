@@ -1,0 +1,9 @@
+---
+- name: yamada
+  data: men
+
+- name: kawasaki
+  data: sakotu
+
+- name: ohno
+  data: tukiyubi
